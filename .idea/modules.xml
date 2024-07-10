@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JaProgramLogic.iml" filepath="$PROJECT_DIR$/.idea/JaProgramLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part1-basis/part1-basis.iml" filepath="$PROJECT_DIR$/part1-basis/part1-basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part2-object-oriented/part2-object-oriented.iml" filepath="$PROJECT_DIR$/part2-object-oriented/part2-object-oriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part3-genericsAndContainers/part3-genericsAndContainers.iml" filepath="$PROJECT_DIR$/part3-genericsAndContainers/part3-genericsAndContainers.iml" />
+    </modules>
+  </component>
+</project>
